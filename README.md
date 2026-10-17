@@ -67,3 +67,4 @@ Le projet permet de comparer les deux modèles, de vérifier les relations therm
 Projet d'application réalisé dans le cadre du module de Thermodynamique, Cycle Ingénieur PIC, FST Settat.
 
 **Référence du cours :** Pr. BAKHER Zine Elabidine — *Thermodynamique, Chapitre 2 : Systèmes fermés à composition constante*, 9 octobre 2026.
+
